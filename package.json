@@ -1,0 +1,27 @@
+{
+  "name": "typescript-decorators",
+  "version": "1.0.0",
+  "description": "Learning TypeScript Decorators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitbtanna/typescript-decorators.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitbtanna/typescript-decorators/issues"
+  },
+  "homepage": "https://github.com/ankitbtanna/typescript-decorators#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.4",
+    "@types/node-fetch": "^2.5.10",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
